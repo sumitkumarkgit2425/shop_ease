@@ -22,6 +22,11 @@
 
 ---
 
+## Search Screen
+<img width="173" height="376" alt="image" src="https://github.com/user-attachments/assets/48da3afd-6368-49a8-8e90-08d2221e29e1" />
+
+---
+
 ## Product Detail Screen
 <img width="353" height="741" alt="Screenshot 2025-09-26 191341" src="https://github.com/user-attachments/assets/e133ece1-4435-47cf-bacb-112fbfb1d7b1" />
 
