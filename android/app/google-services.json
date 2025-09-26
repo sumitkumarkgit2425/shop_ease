@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "698571287600",
+    "project_id": "shop-ease-27a17",
+    "storage_bucket": "shop-ease-27a17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698571287600:android:bf840d4cc59f7b837c91f5",
+        "android_client_info": {
+          "package_name": "com.example.shop_ease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698571287600-qc2vu2ipodfh0caqmviu109dffdf94vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_ease",
+            "certificate_hash": "fd498277f5a9a2e04f980d915ae2312ec7cba2e1"
+          }
+        },
+        {
+          "client_id": "698571287600-eh6onoldkrvjuvb93fnu2vd5n31dnk1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrWqY42ZvGqqFyXuiNXPVYdm04Ir-75-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698571287600-eh6onoldkrvjuvb93fnu2vd5n31dnk1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698571287600-s8ijjg4ene7j70rs1rpb59mtm90qasuh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopEase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
